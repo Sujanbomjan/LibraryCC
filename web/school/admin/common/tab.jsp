@@ -63,14 +63,14 @@
             
 
             <ul class="nav navbar-nav navbar-right off-right">
-                <li class="hidden-xs">
-                    <a href="<%=Common_Things.url %>/edit-profile-admin/">
+                <li class="hidden-xs"><!--
+               <!--     <a href="<%=Common_Things.url %>/edit-profile-admin/">
                         +ADMIN
                     </a>
                 </li> 
 				
                  
-                <li class="quickmenu mg-r-md">
+-->                <li class="quickmenu mg-r-md">
                     <a href="<%=Common_Things.url %>/Admin_Sign_Out_Controller">
                         <i>Logout</i>
                     </a>
